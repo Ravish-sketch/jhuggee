@@ -63,14 +63,14 @@ npm run dev
 ```
 
 ### 5. Open the Application
-Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
+Navigate to [http://jhuggee.com](http://jhuggee.com) in your browser.
 
 ---
 
 ## Testing the Platform
 
 ### Seller Login
-1. Go to `http://localhost:3000/login`
+1. Go to `http://jhuggee.com/login`
 2. Enter Phone Number: **9999999999**
 3. Click "OTP Bhejo"
 4. **Check Terminal** — The OTP will be printed there (in dev mode)
